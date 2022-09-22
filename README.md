@@ -1,4 +1,4 @@
-<p align="right">[![Header](https://github.com/leucochloris/leucochloris/blob/main/assets/code.gif)]</p>
+![Header](https://github.com/leucochloris/leucochloris/blob/main/assets/code.gif)
 
 # Hi there! Thanks for visiting me here.
 ## My name is Alex. I\`m data analyst and beginner Software Engeneer.
