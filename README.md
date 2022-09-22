@@ -15,6 +15,8 @@
 ![HTML](https://img.shields.io/badge/-HTML5-green?style=plastic&logo=HTML5)
 ![CISCO](https://img.shields.io/badge/-CISCO-green?style=plastic&logo=CISCO)
 ![Kali](https://img.shields.io/badge/-Linux/Kali-blue?style=plastic&logo=linux)
+![Java](https://img.shields.io/badge/-Java-orange?style=plastic&logo=Java)
+
 -----
 #### If you have any question - feel free to contact me! 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=plastic&logo=Telegram)](https://t.me/leucochloris)
