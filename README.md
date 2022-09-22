@@ -8,7 +8,6 @@
 ![PyQT5](https://img.shields.io/badge/-PyQT5-yellowgreen?style=plastic&logo=Python) 
 ![Oracle](https://img.shields.io/badge/-Oracle-yellow?style=plastic&logo=Oracle) 
 ![Sqlite3](https://img.shields.io/badge/-Sqlite3-red?style=plastic&logo=Oracle)
-![Linux](https://img.shields.io/badge/-Linux-blue?style=plastic&logo=Linux)
 ![Github](https://img.shields.io/badge/-Github-lightgrey?style=plastic&logo=Github)
 ### Studied:
 ![PHP](https://img.shields.io/badge/-PHP-success?style=plastic&logo=PHP)
@@ -16,7 +15,7 @@
 ![CISCO](https://img.shields.io/badge/-CISCO-black?style=plastic&logo=CISCO)
 ![Kali](https://img.shields.io/badge/-Linux/Kali-critical?style=plastic&logo=linux)
 ![Java](https://img.shields.io/badge/-Java-blueviolet?style=plastic&logo=Java)
-
+![Linux](https://img.shields.io/badge/-Linux-blue?style=plastic&logo=Linux)
 
 #### If you have any question - feel free to contact me! 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=plastic&logo=Telegram)](https://t.me/leucochloris)
