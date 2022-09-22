@@ -13,9 +13,9 @@
 ![PHP](https://img.shields.io/badge/-PHP-success?style=plastic&logo=PHP)
 ![HTML](https://img.shields.io/badge/-HTML5-important?style=plastic&logo=HTML5)
 ![CISCO](https://img.shields.io/badge/-CISCO-black?style=plastic&logo=CISCO)
+![Linux](https://img.shields.io/badge/-Linux-critical?style=plastic&logo=linux)
 ![Kali](https://img.shields.io/badge/-Linux/Kali-critical?style=plastic&logo=linux)
 ![Java](https://img.shields.io/badge/-Java-blueviolet?style=plastic&logo=Java)
-![Linux](https://img.shields.io/badge/-Linux-blue?style=plastic&logo=Linux)
 
 #### If you have any question - feel free to contact me! 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=plastic&logo=Telegram)](https://t.me/leucochloris)
