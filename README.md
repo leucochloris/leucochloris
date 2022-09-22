@@ -13,7 +13,7 @@
 ### Studied:
 ![PHP](https://img.shields.io/badge/-PHP-success?style=plastic&logo=PHP)
 ![HTML](https://img.shields.io/badge/-HTML5-important?style=plastic&logo=HTML5)
-![CISCO](https://img.shields.io/badge/-CISCO-informational?style=plastic&logo=CISCO)
+![CISCO](https://img.shields.io/badge/-CISCO-black?style=plastic&logo=CISCO)
 ![Kali](https://img.shields.io/badge/-Linux/Kali-critical?style=plastic&logo=linux)
 ![Java](https://img.shields.io/badge/-Java-blueviolet?style=plastic&logo=Java)
 
