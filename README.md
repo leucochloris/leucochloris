@@ -3,9 +3,6 @@
 # Hi there 👋
 ## My name is Alex and I\`m analyst and beginner Software Engeneer.
 
-
---------------
-
 ## Languages and tools: 
 ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python) 
 ![Django](https://img.shields.io/badge/-Django-green?style=plastic&logo=Django)
@@ -16,8 +13,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-blue?style=plastic&logo=Linux) 
 ![Github](https://img.shields.io/badge/-Github-white?style=plastic&logo=Github) 
 
-If you have any question - feel free to contact me! ##
+If you have any question - feel free to contact me! 
 
-----
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=plastic&logo=Telegram)](https://t.me/leucochloris)
 [![VK](https://img.shields.io/badge/-VK-black?style=plastic&logo=VK)](https://vk.com/funnymanalex)
