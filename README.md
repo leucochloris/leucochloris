@@ -7,7 +7,7 @@
 ![Django](https://img.shields.io/badge/-Django-green?style=plastic&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-orange?style=plastic&logo=Flask) 
 ![PyQT5](https://img.shields.io/badge/-PyQT5-yellowgreen?style=plastic&logo=Python) 
-![Oracle](https://img.shields.io/badge/-Oracle-yellow?style=plastic&logo=Oracle) 
+![Oracle](https://img.shields.io/badge/-SQL-yellow?style=plastic&logo=SQL) 
 ![Sqlite3](https://img.shields.io/badge/-Sqlite3-red?style=plastic&logo=Oracle)
 ![Github](https://img.shields.io/badge/-Github-lightgrey?style=plastic&logo=Github)
 ### Studied:
