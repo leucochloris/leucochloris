@@ -10,7 +10,7 @@
 ![Oracle](https://img.shields.io/badge/-SQL-yellow?style=plastic&logo=Oracle) 
 ![Sqlite3](https://img.shields.io/badge/-Sqlite3-red?style=plastic&logo=Oracle)
 ![Github](https://img.shields.io/badge/-Github-lightgrey?style=plastic&logo=Github)
-### Studied:
+### In progress:
 ![PHP](https://img.shields.io/badge/-PHP-success?style=plastic&logo=PHP)
 ![HTML](https://img.shields.io/badge/-HTML5-important?style=plastic&logo=HTML5)
 ![CISCO](https://img.shields.io/badge/-CISCO-black?style=plastic&logo=CISCO)
